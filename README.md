@@ -54,6 +54,6 @@
 
 1. Установить [Python 3.8](https://www.python.org/downloads/release/python-380/)
 2. Открыть терминал, перейти в папку проекта и установить зависимости командой `pip install -r requirements.txt`
-3. Запустить файл `main.py`
+3. Запустить файл скрипт командой `python main.py`
 
-Видео:
+[Видео с демонстрацией запуска](https://youtu.be/H7h_fE51mN0)
